@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928169184891",
+    "project_id": "jemuran-awikwok",
+    "storage_bucket": "jemuran-awikwok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928169184891:android:73089f46d98aa9e4ca5cde",
+        "android_client_info": {
+          "package_name": "com.example.jemuran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928169184891-nv3f9ra1nkqo9sm6eapdo0negggp2asc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvmB0M0qSmtF14QfJlOIRZmwuQ-Sa6eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928169184891-nv3f9ra1nkqo9sm6eapdo0negggp2asc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
